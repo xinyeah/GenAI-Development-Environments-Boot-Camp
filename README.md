@@ -31,7 +31,7 @@ Design and evaluate multi-step prompt workflows using **AzureML PromptFlow**. Th
 ### 📁 `copilot-studio`
 Create and test a no-code conversational agent using **Copilot Studio**. Connect your agent to incident data and simulate an investigation assistant for security teams.
 
-- [Tutorial](./Copilot-Studio/opilot_studio_tutorial.md)
+- [Tutorial](./Copilot-Studio/copilot_studio_tutorial.md)
 - `incident_data.xlsx` sample file
 
 
