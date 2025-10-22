@@ -10,7 +10,7 @@ Before starting, please make sure you have completed the following:
 
 ### ✅ Create an Azure Machine Learning workspace
 
-1. Sign in to [Azure Machine Learning Studio](https://ml.azure.com).
+1. Sign in to [Azure Machine Learning Studio](https://ml.azure.com) and select **All workspaces**.
  <img src="images/ml1.png"  width="50%"/>
 2. Select **Create workspace** and follow the prompts.
  <img src="images/ml2.png"  width="50%"/>
@@ -27,7 +27,7 @@ Before starting, please make sure you have completed the following:
 
 ### ✅ Create an Azure OpenAI resource
 
-1. In the Azure portal, select **Create a resource** and search for **Azure OpenAI**.
+1. In the [Azure portal](https://portal.azure.com/), select **Create a resource** and search for **Azure OpenAI**.
 2. Select **Create**.
 3. Fill out the form and click **Next**.
  <img src="images/ml5.png"  width="50%"/>
@@ -38,7 +38,7 @@ Before starting, please make sure you have completed the following:
 
 ### ✅ Deploy a model
 
-1. Sign in to [Azure AI Foundry portal](https://ai.azure.com/?cid=learnDocs).
+1. Sign in to [Azure AI Foundry portal](https://ai.azure.com).
 2. Select the created Azure OpenAI resource.
 2. Under **Shared resources** on the left menu, select **Deployments**.
 3. Select **Deploy model** and then **Deploy base model**.
@@ -52,7 +52,7 @@ Before starting, please make sure you have completed the following:
 
 ## Part 1: Add Azure OpenAI Connection
 
-1. In Azure ML Studio, open your workspace.
+1. In [Azure Machine Learning Studio](https://ml.azure.com), open your workspace.
 2. From the left menu, go to **Connections**.
 3. Click **Connect**.
  <img src="images/ml9.png"  width="40%"/>

@@ -14,14 +14,16 @@ Welcome to your hands-on exploration of **Azure AI Foundry** with the **GPT-4o**
 
 ## 🚀 Step 1: Set Up Your Project
 
-1. **Sign in** to the [Azure AI Foundry portal](https://ai.azure.com/foundry) with your Azure account.
-2. On the home page, **search for `gpt-4o`** and select the model from the results.
-   <img src="images/af1.png"  width="50%"/>
-3. On the model’s detail page, click **Use this model**.
-   <img src="images/af2.png"  width="50%"/>
-4. **Name your project** and click **Create**.
+1. Go to **Management center** on left panel.
+<img src="images/af0.png"  width="20%"/>
+2. Go to **All resources** on left panel. Click **Create new**, and select **Azure AI Foundry resource**.
+<img src="images/af7.png"  width="60%"/>
+3.**Name your project** and click **Create**.
    <img src="images/af3.png"  width="30%"/>
-5. Once your workspace is provisioned, you’ll land in the **Chat Playground** interface.
+4. On the home page, select **Model catalog** on left panel, **search for `gpt-4o`** and select the model from the results.
+   <img src="images/af1.png"  width="50%"/>
+3. On the model’s detail page, click **Use this model**. Select **Direct from Azure models** as Purchase options.
+   <img src="images/af2.png"  width="50%"/>
 
 ---
 
@@ -31,8 +33,9 @@ Welcome to your hands-on exploration of **Azure AI Foundry** with the **GPT-4o**
 
 1. **Prepare an image**
    - Download an image from this folder.
-2. In the **Chat Playground**, **attach your image** to the chat input.
-3. Prompt GPT-4o with:
+2. Click **Playgrounds** on left panel, select **Try the Chat playground**. 
+<img src="images/af8.png"  width="70%"/>
+3. In the **Chat Playground**, **attach your image** to the chat input. Prompt GPT-4o with:
     ```
     Write a concise report of what is in my image.
     ```
@@ -52,7 +55,7 @@ Welcome to your hands-on exploration of **Azure AI Foundry** with the **GPT-4o**
 
 ---
 
-## 🛠️ Section 2: Assistants Playground
+## 🛠️ Section 2 (Optional): Assistants Playground
 
 
 1. On the AI Foundry home page, select the **GPT-4o model**, then click **Create an Assistant**.
